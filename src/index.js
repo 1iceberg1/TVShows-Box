@@ -77,7 +77,4 @@ window.onload = () => {
     }
   };
 
-  hamburger.onclick = () => {
-    menuToggle();
-  };
 };
